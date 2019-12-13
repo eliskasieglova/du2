@@ -1,18 +1,23 @@
 from turtle import forward, right, left
 
+# global variables
+clusterID=0
+coord_clusterID = {} # dictionary of coordinates and their cluster IDs
+
 def build_quadtree(coords):
-    """zjistí krajní body a zavolá rekurzivní funkci na tomhle obdélníku"""
+    """finds edges of bounding box and calls recursive function"""
     global coord_clusterID
     global clusterID
     clusterID = 0
     coord_clusterID = { }
-    # vytvořím si obdélník
+    # create boundaries of bounding box
     left_top, right_bottom = bounding_box(coords)
-    # teď budu dělat rekurzivní funkci
+    # recursive function
     _build(coords, left_top, right_bottom)
     return coord_clusterID
 
 def bounding_box(coords):
+    """finds edges of bounding box"""
     min_x = min(coords, key = lambda p: p[0])[0]
     min_y = min(coords, key = lambda p: p[1])[1]
     max_x = max(coords, key = lambda p: p[0])[0]
@@ -23,9 +28,6 @@ def bounding_box(coords):
     print(max_y)
     return (min_x, max_y), (max_x, min_y)
 
-# global variables
-clusterID=0
-coord_clusterID = {} # dictionary of coordinates and their cluster IDs
 
 def _build(coords, left_top, right_bottom):
     """
@@ -67,9 +69,7 @@ def _build(coords, left_top, right_bottom):
                 l3.append(c)
             elif inside_box(c, a4, b4):
                 l4.append(c)
-            else:
-                print("CHYBA")
-
+        # recurse
         _build(l1, a1, b1)
         _build(l2, a2, b2)
         _build(l3, a3, b3)
