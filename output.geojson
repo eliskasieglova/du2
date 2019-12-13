@@ -1,0 +1,1362 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2019-12-13T09:32:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296443219",
+        "addr:conscriptionnumber": "1711",
+        "addr:housenumber": "1711/4",
+        "addr:postcode": "12000",
+        "addr:street": "Čerchovská",
+        "addr:streetnumber": "4",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21755990"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4464198,
+          50.0790449
+        ]
+      },
+      "id": "node/296443219",
+      "clusterID": 24
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296449022",
+        "addr:conscriptionnumber": "1536",
+        "addr:housenumber": "1536/13",
+        "addr:postcode": "12000",
+        "addr:street": "Krkonošská",
+        "addr:streetnumber": "13",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754624"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4463033,
+          50.0799875
+        ]
+      },
+      "id": "node/296449022",
+      "clusterID": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296451990",
+        "addr:conscriptionnumber": "1606",
+        "addr:housenumber": "1606/21",
+        "addr:postcode": "12000",
+        "addr:street": "Slavíkova",
+        "addr:streetnumber": "21",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21755230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4465142,
+          50.0803873
+        ]
+      },
+      "id": "node/296451990",
+      "clusterID": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296458098",
+        "addr:conscriptionnumber": "1510",
+        "addr:housenumber": "1510/19",
+        "addr:postcode": "12000",
+        "addr:street": "Slavíkova",
+        "addr:streetnumber": "19",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4466439,
+          50.080308
+        ]
+      },
+      "id": "node/296458098",
+      "clusterID": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296459981",
+        "addr:conscriptionnumber": "1474",
+        "addr:housenumber": "1474/1",
+        "addr:postcode": "12000",
+        "addr:street": "Krkonošská",
+        "addr:streetnumber": "1",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.444833,
+          50.0797396
+        ]
+      },
+      "id": "node/296459981",
+      "clusterID": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296469484",
+        "addr:conscriptionnumber": "1620",
+        "addr:housenumber": "1620/13",
+        "addr:postcode": "12000",
+        "addr:street": "Slavíkova",
+        "addr:streetnumber": "13",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21755370"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.447427,
+          50.0796784
+        ]
+      },
+      "id": "node/296469484",
+      "clusterID": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296481721",
+        "addr:conscriptionnumber": "1550",
+        "addr:housenumber": "1550/4",
+        "addr:postcode": "12000",
+        "addr:street": "Na Švihance",
+        "addr:streetnumber": "4",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754764"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4449448,
+          50.0803394
+        ]
+      },
+      "id": "node/296481721",
+      "clusterID": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296482049",
+        "addr:conscriptionnumber": "1534",
+        "addr:housenumber": "1534/6",
+        "addr:postcode": "12000",
+        "addr:street": "Krkonošská",
+        "addr:streetnumber": "6",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754616"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4454367,
+          50.0796205
+        ]
+      },
+      "id": "node/296482049",
+      "clusterID": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296482588",
+        "addr:conscriptionnumber": "1557",
+        "addr:housenumber": "1557/8",
+        "addr:postcode": "12000",
+        "addr:street": "Krkonošská",
+        "addr:streetnumber": "8",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754853"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4457097,
+          50.0796628
+        ]
+      },
+      "id": "node/296482588",
+      "clusterID": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296487854",
+        "addr:conscriptionnumber": "1605",
+        "addr:housenumber": "1605/10",
+        "addr:postcode": "12000",
+        "addr:street": "Na Švihance",
+        "addr:streetnumber": "10",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21755221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4456551,
+          50.0804475
+        ]
+      },
+      "id": "node/296487854",
+      "clusterID": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296488829",
+        "addr:conscriptionnumber": "1508",
+        "addr:housenumber": "1508/9",
+        "addr:postcode": "12000",
+        "addr:street": "Krkonošská",
+        "addr:streetnumber": "9",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4458679,
+          50.0799127
+        ]
+      },
+      "id": "node/296488829",
+      "clusterID": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296490378",
+        "addr:conscriptionnumber": "1522",
+        "addr:housenumber": "1522/4",
+        "addr:postcode": "12000",
+        "addr:street": "Krkonošská",
+        "addr:streetnumber": "4",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754462"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4452051,
+          50.0795819
+        ]
+      },
+      "id": "node/296490378",
+      "clusterID": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296494537",
+        "addr:conscriptionnumber": "1564",
+        "addr:housenumber": "1564/8",
+        "addr:postcode": "12000",
+        "addr:street": "Chopinova",
+        "addr:streetnumber": "8",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754926"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4450206,
+          50.0792571
+        ]
+      },
+      "id": "node/296494537",
+      "clusterID": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296494930",
+        "addr:conscriptionnumber": "1673",
+        "addr:housenumber": "1673/13",
+        "addr:postcode": "12000",
+        "addr:street": "Polská",
+        "addr:streetnumber": "13",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21755779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4471102,
+          50.0789153
+        ]
+      },
+      "id": "node/296494930",
+      "clusterID": 27
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296500413",
+        "addr:conscriptionnumber": "1379",
+        "addr:housenumber": "1379/20",
+        "addr:postcode": "13000",
+        "addr:street": "Slavíkova",
+        "addr:streetnumber": "20",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21781460"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4472696,
+          50.0802181
+        ]
+      },
+      "id": "node/296500413",
+      "clusterID": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296500752",
+        "addr:conscriptionnumber": "1621",
+        "addr:housenumber": "1621/11",
+        "addr:postcode": "12000",
+        "addr:street": "Polská",
+        "addr:streetnumber": "11",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21755388"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4469064,
+          50.0788791
+        ]
+      },
+      "id": "node/296500752",
+      "clusterID": 27
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296500887",
+        "addr:conscriptionnumber": "1474",
+        "addr:housenumber": "1474/12",
+        "addr:postcode": "12000",
+        "addr:street": "Chopinova",
+        "addr:streetnumber": "12",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4448279,
+          50.0798299
+        ]
+      },
+      "id": "node/296500887",
+      "clusterID": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296503273",
+        "addr:conscriptionnumber": "1501",
+        "addr:housenumber": "1501/16",
+        "addr:postcode": "12000",
+        "addr:street": "Chopinova",
+        "addr:streetnumber": "16",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4446965,
+          50.0801813
+        ]
+      },
+      "id": "node/296503273",
+      "clusterID": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296519548",
+        "addr:conscriptionnumber": "1607",
+        "addr:housenumber": "1607/10",
+        "addr:postcode": "12000",
+        "addr:street": "Krkonošská",
+        "addr:streetnumber": "10",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21755256"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4462816,
+          50.0797587
+        ]
+      },
+      "id": "node/296519548",
+      "clusterID": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296522110",
+        "addr:conscriptionnumber": "1512",
+        "addr:housenumber": "1512/11",
+        "addr:postcode": "12000",
+        "addr:street": "Krkonošská",
+        "addr:streetnumber": "11",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4460995,
+          50.0799513
+        ]
+      },
+      "id": "node/296522110",
+      "clusterID": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296522227",
+        "addr:conscriptionnumber": "1751",
+        "addr:housenumber": "1751/58",
+        "addr:postcode": "12000",
+        "addr:street": "Polská",
+        "addr:streetnumber": "58",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21756155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4472785,
+          50.0787214
+        ]
+      },
+      "id": "node/296522227",
+      "clusterID": 27
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296523215",
+        "addr:conscriptionnumber": "1588",
+        "addr:housenumber": "1588/12",
+        "addr:postcode": "12000",
+        "addr:street": "Na Švihance",
+        "addr:streetnumber": "12",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21755108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4458332,
+          50.0804723
+        ]
+      },
+      "id": "node/296523215",
+      "clusterID": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296542320",
+        "addr:conscriptionnumber": "2129",
+        "addr:housenumber": "2129/3",
+        "addr:postcode": "12000",
+        "addr:street": "Čerchovská",
+        "addr:streetnumber": "3",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21756830"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4460894,
+          50.0790066
+        ]
+      },
+      "id": "node/296542320",
+      "clusterID": 23
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296543242",
+        "addr:conscriptionnumber": "1607",
+        "addr:housenumber": "1607/10",
+        "addr:postcode": "12000",
+        "addr:street": "Čerchovská",
+        "addr:streetnumber": "10",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21755248"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4461899,
+          50.0796598
+        ]
+      },
+      "id": "node/296543242",
+      "clusterID": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296550109",
+        "addr:conscriptionnumber": "1623",
+        "addr:housenumber": "1623/12",
+        "addr:postcode": "12000",
+        "addr:street": "Krkonošská",
+        "addr:streetnumber": "12",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21755400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4465131,
+          50.0797973
+        ]
+      },
+      "id": "node/296550109",
+      "clusterID": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296551077",
+        "addr:conscriptionnumber": "1511",
+        "addr:housenumber": "1511/5",
+        "addr:postcode": "12000",
+        "addr:street": "Krkonošská",
+        "addr:streetnumber": "5",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4454187,
+          50.0798368
+        ]
+      },
+      "id": "node/296551077",
+      "clusterID": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296552624",
+        "addr:conscriptionnumber": "1494",
+        "addr:housenumber": "1494/3",
+        "addr:postcode": "12000",
+        "addr:street": "Krkonošská",
+        "addr:streetnumber": "3",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754195"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4451576,
+          50.0798046
+        ]
+      },
+      "id": "node/296552624",
+      "clusterID": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296561524",
+        "addr:conscriptionnumber": "1520",
+        "addr:housenumber": "1520/7",
+        "addr:postcode": "12000",
+        "addr:street": "Krkonošská",
+        "addr:streetnumber": "7",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754438"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4456641,
+          50.0798766
+        ]
+      },
+      "id": "node/296561524",
+      "clusterID": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296563542",
+        "addr:conscriptionnumber": "1618",
+        "addr:housenumber": "1618/2",
+        "addr:postcode": "12000",
+        "addr:street": "Čerchovská",
+        "addr:streetnumber": "2",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21755353"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4464797,
+          50.0788959
+        ]
+      },
+      "id": "node/296563542",
+      "clusterID": 26
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296568573",
+        "addr:conscriptionnumber": "1560",
+        "addr:housenumber": "1560/1",
+        "addr:postcode": "12000",
+        "addr:street": "Čerchovská",
+        "addr:streetnumber": "1",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754896"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4461494,
+          50.0788576
+        ]
+      },
+      "id": "node/296568573",
+      "clusterID": 25
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296571509",
+        "addr:conscriptionnumber": "1471",
+        "addr:housenumber": "1471/17",
+        "addr:postcode": "12000",
+        "addr:street": "Krkonošská",
+        "addr:streetnumber": "17",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21753989"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4467802,
+          50.0800659
+        ]
+      },
+      "id": "node/296571509",
+      "clusterID": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296573760",
+        "addr:conscriptionnumber": "1608",
+        "addr:housenumber": "1608/18",
+        "addr:postcode": "12000",
+        "addr:street": "Krkonošská",
+        "addr:streetnumber": "18",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21755264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4471265,
+          50.0798969
+        ]
+      },
+      "id": "node/296573760",
+      "clusterID": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296576136",
+        "addr:conscriptionnumber": "2001",
+        "addr:housenumber": "2001/16",
+        "addr:postcode": "12000",
+        "addr:street": "Krkonošská",
+        "addr:streetnumber": "16",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21756627"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.446895,
+          50.0798583
+        ]
+      },
+      "id": "node/296576136",
+      "clusterID": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296580704",
+        "addr:conscriptionnumber": "1664",
+        "addr:housenumber": "1664/15",
+        "addr:postcode": "12000",
+        "addr:street": "Polská",
+        "addr:streetnumber": "15",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21755710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4473021,
+          50.0789413
+        ]
+      },
+      "id": "node/296580704",
+      "clusterID": 27
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296585650",
+        "addr:conscriptionnumber": "1548",
+        "addr:housenumber": "1548/6",
+        "addr:postcode": "12000",
+        "addr:street": "Na Švihance",
+        "addr:streetnumber": "6",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754748"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4452059,
+          50.0803716
+        ]
+      },
+      "id": "node/296585650",
+      "clusterID": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296585969",
+        "addr:conscriptionnumber": "1533",
+        "addr:housenumber": "1533/2",
+        "addr:postcode": "12000",
+        "addr:street": "Chopinova",
+        "addr:streetnumber": "2",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754594"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4452082,
+          50.0787745
+        ]
+      },
+      "id": "node/296585969",
+      "clusterID": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296586796",
+        "addr:conscriptionnumber": "1556",
+        "addr:housenumber": "1556/6",
+        "addr:postcode": "12000",
+        "addr:street": "Chopinova",
+        "addr:streetnumber": "6",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754837"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4450787,
+          50.079117
+        ]
+      },
+      "id": "node/296586796",
+      "clusterID": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296588102",
+        "addr:conscriptionnumber": "1477",
+        "addr:housenumber": "1477/15",
+        "addr:postcode": "12000",
+        "addr:street": "Krkonošská",
+        "addr:streetnumber": "15",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754071"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4465071,
+          50.0800237
+        ]
+      },
+      "id": "node/296588102",
+      "clusterID": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296598231",
+        "addr:conscriptionnumber": "1608",
+        "addr:housenumber": "1608/15",
+        "addr:postcode": "12000",
+        "addr:street": "Slavíkova",
+        "addr:streetnumber": "15",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21755272"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4472921,
+          50.0798479
+        ]
+      },
+      "id": "node/296598231",
+      "clusterID": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296606368",
+        "addr:conscriptionnumber": "1667",
+        "addr:housenumber": "1667/14",
+        "addr:postcode": "12000",
+        "addr:street": "Krkonošská",
+        "addr:streetnumber": "14",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21755728"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4467031,
+          50.0798322
+        ]
+      },
+      "id": "node/296606368",
+      "clusterID": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296616284",
+        "addr:conscriptionnumber": "1744",
+        "addr:housenumber": "1744/5",
+        "addr:postcode": "12000",
+        "addr:street": "Čerchovská",
+        "addr:streetnumber": "5",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21756104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4460314,
+          50.0791467
+        ]
+      },
+      "id": "node/296616284",
+      "clusterID": 20
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296650149",
+        "addr:conscriptionnumber": "1529",
+        "addr:housenumber": "1529/2",
+        "addr:postcode": "12000",
+        "addr:street": "Krkonošská",
+        "addr:streetnumber": "2",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4449459,
+          50.0795409
+        ]
+      },
+      "id": "node/296650149",
+      "clusterID": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296657135",
+        "addr:conscriptionnumber": "1715",
+        "addr:housenumber": "1715/8",
+        "addr:postcode": "12000",
+        "addr:street": "Čerchovská",
+        "addr:streetnumber": "8",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21756031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4462574,
+          50.0794752
+        ]
+      },
+      "id": "node/296657135",
+      "clusterID": 21
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296660427",
+        "addr:conscriptionnumber": "1745",
+        "addr:housenumber": "1745/7",
+        "addr:postcode": "12000",
+        "addr:street": "Čerchovská",
+        "addr:streetnumber": "7",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21756112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4459833,
+          50.0793058
+        ]
+      },
+      "id": "node/296660427",
+      "clusterID": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296667313",
+        "addr:conscriptionnumber": "2037",
+        "addr:housenumber": "2037/9",
+        "addr:postcode": "12000",
+        "addr:street": "Čerchovská",
+        "addr:streetnumber": "9",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21756724"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.445929,
+          50.0794281
+        ]
+      },
+      "id": "node/296667313",
+      "clusterID": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296670851",
+        "addr:conscriptionnumber": "1618",
+        "addr:housenumber": "1618/9",
+        "addr:postcode": "12000",
+        "addr:street": "Polská",
+        "addr:streetnumber": "9",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21755361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4466195,
+          50.0788356
+        ]
+      },
+      "id": "node/296670851",
+      "clusterID": 26
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296674806",
+        "addr:conscriptionnumber": "1471",
+        "addr:housenumber": "1471/17",
+        "addr:postcode": "12000",
+        "addr:street": "Slavíkova",
+        "addr:streetnumber": "17",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21753997"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4468266,
+          50.0801789
+        ]
+      },
+      "id": "node/296674806",
+      "clusterID": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296676844",
+        "addr:conscriptionnumber": "1499",
+        "addr:housenumber": "1499/22",
+        "addr:postcode": "13000",
+        "addr:street": "Slavíkova",
+        "addr:streetnumber": "22",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21782849"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4469238,
+          50.0804507
+        ]
+      },
+      "id": "node/296676844",
+      "clusterID": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296677170",
+        "addr:conscriptionnumber": "1472",
+        "addr:housenumber": "1472/14",
+        "addr:postcode": "12000",
+        "addr:street": "Chopinova",
+        "addr:streetnumber": "14",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4447483,
+          50.0800044
+        ]
+      },
+      "id": "node/296677170",
+      "clusterID": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296678217",
+        "addr:conscriptionnumber": "1560",
+        "addr:housenumber": "1560/7",
+        "addr:postcode": "12000",
+        "addr:street": "Polská",
+        "addr:streetnumber": "7",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4460615,
+          50.0787409
+        ]
+      },
+      "id": "node/296678217",
+      "clusterID": 25
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296685135",
+        "addr:conscriptionnumber": "1543",
+        "addr:housenumber": "1543/4",
+        "addr:postcode": "12000",
+        "addr:street": "Chopinova",
+        "addr:streetnumber": "4",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754683"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4451425,
+          50.0789502
+        ]
+      },
+      "id": "node/296685135",
+      "clusterID": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296686946",
+        "addr:conscriptionnumber": "1529",
+        "addr:housenumber": "1529/10",
+        "addr:postcode": "12000",
+        "addr:street": "Chopinova",
+        "addr:streetnumber": "10",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754535"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4449511,
+          50.0794506
+        ]
+      },
+      "id": "node/296686946",
+      "clusterID": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296692238",
+        "addr:conscriptionnumber": "1981",
+        "addr:housenumber": "1981/6",
+        "addr:postcode": "12000",
+        "addr:street": "Čerchovská",
+        "addr:streetnumber": "6",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21756490"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4463804,
+          50.0792955
+        ]
+      },
+      "id": "node/296692238",
+      "clusterID": 21
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296702419",
+        "addr:conscriptionnumber": "1549",
+        "addr:housenumber": "1549/8",
+        "addr:postcode": "12000",
+        "addr:street": "Na Švihance",
+        "addr:streetnumber": "8",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4454374,
+          50.0804102
+        ]
+      },
+      "id": "node/296702419",
+      "clusterID": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296703658",
+        "addr:conscriptionnumber": "1557",
+        "addr:housenumber": "1557/11",
+        "addr:postcode": "12000",
+        "addr:street": "Čerchovská",
+        "addr:streetnumber": "11",
+        "source:addr": "uir_adr",
+        "uir_adr:ADRESA_KOD": "21754845"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4458633,
+          50.0796038
+        ]
+      },
+      "id": "node/296703658",
+      "clusterID": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296837953",
+        "addr:conscriptionnumber": "1501",
+        "addr:housenumber": "1501/2",
+        "addr:place": "Vinohrady",
+        "addr:postcode": "12000",
+        "addr:street": "Na Švihance",
+        "addr:streetnumber": "2",
+        "ref:ruian:addr": "25739808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4446479,
+          50.0802769
+        ]
+      },
+      "id": "node/296837953",
+      "clusterID": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2408146789",
+        "addr:city": "Praha 2",
+        "addr:housenumber": "10",
+        "addr:postcode": "12000",
+        "addr:street": "Krkonošská",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "lacasadierminio@seznam.cz",
+        "name": "La Casa di Erminio",
+        "opening_hours": "Mo-Sa 12:00-23:00",
+        "phone": "+420 704 087 191",
+        "website": "http://lacasadierminio.cz/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4462049,
+          50.0796331
+        ]
+      },
+      "id": "node/2408146789",
+      "clusterID": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2409856200",
+        "addr:city": "Praha",
+        "addr:conscriptionnumber": "1711",
+        "addr:country": "CZ",
+        "addr:housenumber": "1711/4",
+        "addr:place": "Vinohrady",
+        "addr:postcode": "12000",
+        "addr:street": "Čerchovská",
+        "addr:streetnumber": "4",
+        "addr:suburb": "Praha 2",
+        "name": "Žabka",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "ref:ruian:addr": "21755990",
+        "shop": "convenience",
+        "source:addr": "cuzk:ruian",
+        "source:loc": "survey",
+        "website": "http://www.izabka.cz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4464327,
+          50.079012
+        ]
+      },
+      "id": "node/2409856200",
+      "clusterID": 24
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3152681841",
+        "addr:city": "Praha",
+        "addr:housenumber": "21",
+        "addr:postcode": "12000",
+        "addr:street": "Slavíkova",
+        "amenity": "cafe",
+        "name": "Prádelna Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4464737,
+          50.0803902
+        ]
+      },
+      "id": "node/3152681841",
+      "clusterID": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6702957657",
+        "addr:city": "Praha 2",
+        "addr:housenumber": "8",
+        "addr:postcode": "12000",
+        "addr:street": "Krkonošská",
+        "amenity": "veterinary",
+        "name": "Veterinární klinika Panda",
+        "opening_hours": "Mo-Fr 08:30-21:00; Sa 09:00-13:00; Su 16:00-19:00",
+        "operator": "Panda Production, s.r.o.",
+        "phone": "+420 222 725 345;+420 602 568 545",
+        "website": "http://veterinarniklinikapanda.cz/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4456212,
+          50.0796472
+        ]
+      },
+      "id": "node/6702957657",
+      "clusterID": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7012029530",
+        "addr:housenumber": "15",
+        "addr:street": "Slavíkova",
+        "amenity": "restaurant",
+        "name": "Dóttir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4472921,
+          50.0798479
+        ]
+      },
+      "id": "node/7012029530",
+      "clusterID": 14
+    }
+  ]
+}
