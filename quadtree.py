@@ -1,9 +1,7 @@
-from turtle import forward, right, left
 
 # global variables
 clusterID=0
 coord_clusterID = {} # dictionary of coordinates and their cluster IDs
-
 def build_quadtree(coords):
     """finds edges of bounding box and calls recursive function"""
     global coord_clusterID
@@ -11,12 +9,12 @@ def build_quadtree(coords):
     clusterID = 0
     coord_clusterID = { }
     # create boundaries of bounding box
-    left_top, right_bottom = bounding_box(coords)
+    left_top, right_bottom = _bounding_box(coords)
     # recursive function
     _build(coords, left_top, right_bottom)
     return coord_clusterID
 
-def bounding_box(coords):
+def _bounding_box(coords):
     """finds edges of bounding box"""
     min_x = min(coords, key = lambda p: p[0])[0]
     min_y = min(coords, key = lambda p: p[1])[1]
@@ -27,7 +25,6 @@ def bounding_box(coords):
     print(max_x)
     print(max_y)
     return (min_x, max_y), (max_x, min_y)
-
 
 def _build(coords, left_top, right_bottom):
     """
@@ -81,3 +78,4 @@ def inside_box(point, min, max):
         return True
     else:
         return False
+
